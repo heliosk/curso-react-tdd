@@ -1,5 +1,5 @@
 {
-  "name": "curso-react-tdd",
+  "name": "react-tdd",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -31,5 +31,8 @@
     "jest": "^25.5.4",
     "lint-staged": "^10.4.0",
     "ts-jest": "^26.4.0"
+  },
+  "dependencies": {
+    "typescript": "^4.0.3"
   }
 }
