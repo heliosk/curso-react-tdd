@@ -25,5 +25,8 @@
     ],
     "types": [
       "typePatches"
+    ],
+    "include": [
+      "src"
     ]
 }
